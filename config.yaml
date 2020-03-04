@@ -61,7 +61,7 @@ params:
     url: /
     button: true
   section1:
-    title: The last CRM you'll need
+    title: The last CRM that you'll need
     subtitle: Stop switching providers
     tiles:
     - title: Enterprise
