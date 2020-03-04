@@ -66,7 +66,7 @@ params:
     tiles:
     - title: Enterprise
       icon: mouse-globe
-      text: Scale to millions of contacts
+      text: Scales to millions of contacts
       url: /
       buttonText: See the demo
     - title: Open Source
