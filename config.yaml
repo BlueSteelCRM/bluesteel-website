@@ -27,7 +27,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Enterprise, Open Source CRM.
+    title: Enterprise, Open Source, CRM.
     # Hero subtitle (optional)
     subtitle: Modern, open source CRM designed for massive scale.
     # Button text
