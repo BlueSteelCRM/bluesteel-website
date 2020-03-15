@@ -49,11 +49,11 @@ params:
     url: /
   - title: Dropdown
     sublinks:
-    - title: Dropdown item
+    - title: Dropdown item 1
       url: /
-    - title: Dropdown item
+    - title: Dropdown item 2
       url: /
-    - title: Dropdown item
+    - title: Dropdown item 3
       url: /
   - title: Log in
     url: /
