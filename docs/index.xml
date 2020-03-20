@@ -10,5 +10,14 @@
 	<atom:link href="http://bluesteelcrm.com/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Test Page</title>
+      <link>http://bluesteelcrm.com/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bluesteelcrm.com/test/</guid>
+      <description>Foo data </description>
+    </item>
+    
   </channel>
 </rss>

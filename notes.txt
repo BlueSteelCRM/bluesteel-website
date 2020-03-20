@@ -1,0 +1,22 @@
+Headline: Enterprise, Open Source CRM
+
+Features:
+	Enterprise List Management - Manage millions of records
+	Advanced query, export, and import tools
+	Campaign Management - Email, social media,
+	Transaction Tracking -- donations, payments, fees -- keep track of them all
+	Native Source Code Management
+
+Other good things
+	Mobile friendly
+
+Standard plugins
+ Omni-channel Reporting (from Frakture)
+ Transaction processing (from Stripe,  ActBlue)
+ Email Delivery (from Mailgun,)
+ Landing pages (delivered by AWS)
+
+
+For engineers
+	Check out the code:
+	https://github.com/bluesteelcrm
