@@ -1,12 +1,12 @@
 # showcase
 showcase:
   enable: true
-  title: "Enterprise. Open Source."
-  subtitle: "Blue Steel CRM."
-  description: "Leave legacy programs behind and join the new world."
+  title: "Enterprise."
+  subtitle: "Open Source."
+  description: "Leave legacy programs behind and join the new CRM world."
   image:
     x: "images/logos/blue-steel-logo-illustrated-gears.png"
-    _2x: "images/logos/blue-steel-logo-illustrated-gears.png" 
+    _2x: "images/logos/blue-steel-logo-illustrated-gears.png"
   imageMobile:
     x: "img/showcase/showcase-mobile.jpg"
 
