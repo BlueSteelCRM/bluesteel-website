@@ -8,7 +8,7 @@ showcase:
     x: "img/showcase.png"
     _2x: "img/showcase@2x.png"
   imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/showcase/showcase-mobile.png"
 
   button:
     icon: "icon-mail-fill"
@@ -25,12 +25,6 @@ showcase:
     - icon: "twitter"
       URL: "https://twitter.com/radity"
 
-    - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
-
-    - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
-
     - icon: "youtube"
       URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
 
@@ -43,8 +37,6 @@ showcase:
     - icon: "codepen"
       URL: "#"
 
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
 
 # about
 about:
