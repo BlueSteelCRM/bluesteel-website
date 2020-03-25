@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Enterprise."
   subtitle: "Open Source."
-  description: "Leave legacy programs behind and join the new CRM world."
+  description: "Launch into the new world and leave your old legacy platforms behind."
   image:
     x: "img/showcase.png"
     _2x: "img/showcase@2x.png"
