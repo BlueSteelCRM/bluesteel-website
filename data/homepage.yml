@@ -5,8 +5,8 @@ showcase:
   subtitle: "Open Source."
   description: "Leave legacy programs behind and join the new CRM world."
   image:
-    x: "images/logos/blue-steel-logo-illustrated-gears.png"
-    _2x: "images/logos/blue-steel-logo-illustrated-gears.png"
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase.png"
   imageMobile:
     x: "img/showcase/showcase-mobile.jpg"
 
