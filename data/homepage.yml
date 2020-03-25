@@ -10,6 +10,7 @@ showcase:
   imageMobile:
     x: "img/showcase/showcase-mobile.jpg"
 
+  image: "img/logos/blue-steel-logo-illustrated-gears.png"
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
