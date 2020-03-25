@@ -10,8 +10,8 @@ showcase:
   imageMobile:
     x: "img/showcase-mobile.png"
 
-    image:
-      x: "img/logos/blue-steel-logo-illustrated gears.png"
+  image:
+    x: "img/logos/blue-steel-logo-illustrated gears.png"
 
   button:
     icon: "icon-mail-fill"
