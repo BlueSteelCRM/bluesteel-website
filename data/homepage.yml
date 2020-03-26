@@ -41,7 +41,7 @@ showcase:
 # about
 about:
   enable: true
-  title: "Who am I?"
+  title: "What is Blue Steel?"
   content: '<p class="lead">
     I am back, after a few days of vacationing with family. Weather was awesome, the beach was
     full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
@@ -57,8 +57,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/company/radity/"
   image:
-    x: "img/who-am-i/user-picture.png"
-    _2x: "img/who-am-i/user-picture@2x.png"
+    x: "img/logos/blue-steel-illustrated-gears.png"
+    _2x: "img/logos/blue-steel-illustrated-gears.png"
 
 # education
 education:
