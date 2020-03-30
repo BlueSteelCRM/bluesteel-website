@@ -22,8 +22,11 @@
         <p class="lead">
           {{ .Site.Data.homepage.showcase.description | safeHTML }}
         </p>
+
+        <img
+          class="homepage logo"
+          src="/blue-steel-logo-illustrated-gears.png" alt="Blue Steel Logo" height="338" width="500">
         
-        <img src="/blue-steel-logo-illustrated-gears.png" alt="Blue Steel Logo" height="338" width="500">
 
         <a
           href="{{ .Site.Data.homepage.showcase.button.URL | absURL }}"
