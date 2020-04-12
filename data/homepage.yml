@@ -5,10 +5,10 @@ showcase:
   subtitle: "Open Source."
   description: "Launch into the new world and leave your legacy platforms behind."
   image:
-    x: "img/showcase.png"
-    _2x: "img/showcase@2x.png"
+    x: "img/showcase_new.png"
+    _2x: "img/showcase@2x_new.png"
   imageMobile:
-    x: "img/showcase-mobile.png"
+    x: "img/showcase-mobile_new.png"
 
   button:
     icon: "icon-mail-fill"
@@ -60,10 +60,10 @@ about:
     x: "img/logos/blue-steel-logo-illustrated-gears.png"
     _2x: "img/logos/blue-steel-logo-illustrated-gears.png"
 
-# education
-education:
+# features
+features:
   enable: true
-  title: "Education"
+  title: "Features"
   items:
     - university: "University of Waterloo"
       year: "2012-2017"
